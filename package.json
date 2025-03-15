@@ -1,0 +1,35 @@
+{
+  "name": "kolkia-bot",
+  "version": "1.0.0",
+  "description": "An automation for interacting with KolkApp.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnodrops/kolkia-bot.git"
+  },
+  "keywords": [
+    "AI",
+    "airdrops",
+    "automation"
+  ],
+  "author": "itsnodrops",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsnodrops/kolkia-bot/issues"
+  },
+  "homepage": "https://github.com/itsnodrops/kolkia-bot#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "ethers": "^6.13.5",
+    "groq-sdk": "^0.16.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "figlet": "^1.8.0"
+  }
+}
+

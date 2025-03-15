@@ -2,7 +2,7 @@
   "BASE_URL": "https://api1-pp.klokapp.ai/v1/",
   "messagesFile": "messages.txt",
   "REFERRAL_CODE": "TZKTEE5Y",
-  "GROQ_API_KEY": "asoldij",
+  "GROQ_API_KEY": "your_api_key_here",
   "GROQ_MODEL": "llama3-8b-8192",
   "KLOK_MODEL": "llama-3.3-70b-instruct",
   "DEFAULT_CHATS_PER_ACCOUNT": 50,

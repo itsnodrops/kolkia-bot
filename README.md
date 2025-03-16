@@ -1,6 +1,6 @@
 # 🚀 KolkIA BOT
 
-An advanced automation bot for seamless interaction with **KolkApp**.
+An advanced automation bot for seamless interaction with **KlokApp**.
 
 ---
 
@@ -19,7 +19,7 @@ An advanced automation bot for seamless interaction with **KolkApp**.
 Before getting started, ensure you have:
 
 - **Node.js (v16 or higher)** — Download [here](https://nodejs.org/en/download/)
-- **A valid Kivanet account(s)** — Register [here](https://klokapp.ai?referral_code=TZKTEE5Y)
+- **A valid KlokApp account(s)** — Register [here](https://klokapp.ai?referral_code=TZKTEE5Y)
 - **Configured `config.json` & `.env` file** — Make sure your settings are correct.
 
 ---
